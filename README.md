@@ -9,6 +9,6 @@ TOOLS-
 
 2.OpenCV
 
-Languages used:-Python and Java
+Languages used:-Python 
 
 KNN Algorithm(Machine learning)
